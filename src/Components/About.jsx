@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a Creative Software Developer passionate about crafting innovative software solutions while bringing ideas to life through engaging graphic design. My goal is to merge technology and creativity to deliver impactful digital experiences.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "With a background in both software development and graphic design, I thrive at the intersection of functionality and aesthetics. I believe that great software should not only solve problems but also provide an enjoyable user experience. My passion lies in creating intuitive applications and visually compelling graphics, whether it's a sleek mobile app, an informative infographic, or an eye-catching advertisement. As Albert Einstein once said, 'Creativity is intelligence having fun.' I strive to embody this philosophy in every project I undertake, blending technical expertise with artistic vision to inspire and engage users.";
 
 const About = () => {
   return (
